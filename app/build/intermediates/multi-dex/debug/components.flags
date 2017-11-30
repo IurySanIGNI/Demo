@@ -1,0 +1,119 @@
+-injars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/libs/ibm-mobile-push-android-sdk-3.7.0.0.1.jar'(**.class)
+-injars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/libs/ibm-mobile-push-android-sdk-plugin-calendar-3.7.0.0.1.jar'(**.class)
+-injars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/libs/ibm-mobile-push-android-sdk-plugin-displayweb-3.7.0.0.1.jar'(**.class)
+-injars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/libs/ibm-mobile-push-android-sdk-plugin-inapp-3.7.0.0.1.jar'(**.class)
+-injars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/libs/ibm-mobile-push-android-sdk-plugin-inbox-3.7.0.0.1.jar'(**.class)
+-injars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/libs/ibm-mobile-push-android-sdk-plugin-snooze-3.7.0.0.1.jar'(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/abd5f141126633e660d08f347ab07610/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/de5d858c8929d8dacb3b58a4ba5abf5c/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/33c10a1566571b9d3bf42bb3a74c39f0/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/c90e857824ebf81aa767d6777744830d/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5e52171b22bd277f0f45d28df33f64c4/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/customtabs-24.2.1.aar/c3dba3c8e90e5a4c59e28ed3e9dddf9b/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.24.0/42dab493b8f74b164e082f281480c9d493ff89da/rxandroid-0.24.0.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.82.1/3e4f47bc60063111a375200f866192bf821efa93/realm-android-0.82.1.jar(**.class)
+-injars '/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar'(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/92b0f617477d7552eeae3ad658b86f80/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a359f9e1b0e30480583a88e9154d1e5e/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/9322f2eb37b3d88c9c6ea2b685b61425/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/b85c7ad5c92974e34b4ec0104a12da58/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/0b9421d2a2f6a2926c15f5384291e667/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/5b2de1199782639f29524468f567d9d6/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/8e8fe3f3ee22bf2a1beabb18b8dc8a25/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/261008265689cd0fbd12c512f3379243/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/d28be3d3011343fa74e638ac1d9322f6/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/b89228a2bb07978133cac687c1619a19/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/5e483e16118948543fadf4fcff735ca9/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/8b969e35ab4780a74289a2565db5b56b/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/e54217c69d7dc381c3d2ae1d651d0a86/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/609f6c420b1c2c5c2763fd096922da45/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/dca45f66268597999042c348beeb58ed/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/a67a88504bbb35d4fc8a59367e2a1a14/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/c6c482f491d5a44c630a3180e02d6e53/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/6115897b1c0df2ff2d5908022ecf3a52/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/e94dc9c863721687e81f7789edc8d869/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/3e7cc7f8adb4611a332d40ebb96be894/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/4146bcc6bcabdb5bcd1a3fb2fe3fa184/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/de6ba5d2944a590e59702eb9ca3e869d/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/768d080c55a269a756408d8dabcfc3d5/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/75ee9f18d0f6d236d55cc8fb34f58e36/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/691618247cb395246bfa45645ea412df/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/426c1d8cbc60ed792f2627e3f7813a00/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/013a6cea6455eebe39011128849566b7/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/88eb6bfccebfad4d14bdc359bc269ed9/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/5cfc0f03c2fb395dbb7e4672c5bc9952/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/60acb19e45611c05a91b11db639c4625/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/75476eaea8583addb786535acdd76562/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/32bc15f045c6478d6b3f8cd807a45220/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/a9c213cc53a0787f8908d9f180854993/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/5221f367031dbd9afa7715dd1c6df908/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/8f9531d58285819bb83d6df212a502b7/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/c941bc69f00ae2ba68e2ee7858af78ec/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/e931329e1078bccdc6ebb2bcc78b4756/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/85e1ce96d7e4c7d67989bd8a87e426c3/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/723fe8ea5280a7871b51f749a8c59025/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/7c57e0a09228f4d1e880b9bce0df0121/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/d643eab00aed60d0087c0d21625bd74e/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/cc19c3801d6e1052fc74934ef24442f3/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/fe4e8a496711980ba234d7fc233cd4e3/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/848bad77bea3ac96a54dcfc041d02b62/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/ccacdfb4ca54edd04454406d97b36239/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/76ce96021b2a9a971630cd3953b3e7c4/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/0e59fe1d5f932ae2289bec7a3305cd57/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/023206f5113b35a37869f56491a9d4ca/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/8928ee23a6abf72fa63ae505d5affefa/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/c1bada0e0cd8900f778d717c69e57034/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/2f12af4e18240f5df0cfcae2b049aa98/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/c411654fb16649c69d19abb087b36281/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/572b859a220670beb5a5e0b5bea4a4f3/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/666a0cb9062d55c194c8299f502ccdb4/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/fd282bcc900f2e5c45e5fafc23d93d12/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/92228da77da1d1c42930e22aa79f0eba/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/a7e971000608fe0a6c458186d8364e51/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/dc9fa412fd53d2f54b33895cf4093471/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/75036fb6cab93f0640741c91ab46f0a3/jars/classes.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/d11dfbde3fac8c2a622f2c924621e7c6/jars/classes.jar(**.class)
+-injars /Users/iurysan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar(**.class)
+-injars /Users/iurysan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.4/a607b0e12d2de769dc219e00b60a9b3d9e730d/rxjava-1.0.4.jar(**.class)
+-injars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/build/intermediates/classes/debug'(**.class)
+-outjars '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars /Users/iurysan/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration '/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/build/intermediates/multi-dex/debug/components.flags'
+
+
+# Referenced at /Users/iurysan/Desktop/android-master- 45/samples/Demo/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:44
+-keep class com.ibm.mce.samples.gcm.SampleApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

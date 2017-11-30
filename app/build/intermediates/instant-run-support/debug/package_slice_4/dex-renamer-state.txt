@@ -1,0 +1,4 @@
+#Thu Nov 30 10:24:29 BRST 2017
+base.0=/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/build/intermediates/transforms/dexMerger/debug/40
+renamed.0=classes.dex
+file.0=/Users/iurysan/Desktop/android-master- 45/samples/Demo/app/build/intermediates/transforms/dexMerger/debug/40/classes.dex

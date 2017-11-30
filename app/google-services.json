@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307745953272",
+    "firebase_url": "https://ibm-wca-2feac.firebaseio.com",
+    "project_id": "ibm-wca-2feac",
+    "storage_bucket": "ibm-wca-2feac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307745953272:android:d1b5ea4c034937d7",
+        "android_client_info": {
+          "package_name": "com.ibm.mce.samples.gcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307745953272-ldev257a7dlvq8o0mlen045q986uf2h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqM3rUWOgeMAgeTJQkZDPW8u3uYv8jrys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
